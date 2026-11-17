@@ -1,0 +1,198 @@
+{
+  "candidate": {
+    "education": "B.Sc. Computer Science",
+    "graduation_year": 2027,
+    "experience_level": "entry-level",
+    "experience_preferences": [
+      "fresher",
+      "0 years",
+      "0-1 years",
+      "graduate",
+      "entry-level",
+      "relevant internships"
+    ],
+    "projects": [
+      "AI Pulse",
+      "Agile Bot",
+      "AI Resume Analyzer",
+      "CortexAI",
+      "Talivy"
+    ]
+  },
+  "roles": [
+    {
+      "name": "Python Backend Developer",
+      "aliases": [
+        "python backend",
+        "backend python developer",
+        "python developer",
+        "backend engineer",
+        "backend software engineer"
+      ]
+    },
+    {
+      "name": "Python Full Stack Developer",
+      "aliases": [
+        "python full stack",
+        "python fullstack",
+        "full stack python",
+        "fullstack python",
+        "python full stack with genai"
+      ]
+    },
+    {
+      "name": "Python Developer",
+      "aliases": [
+        "python developer",
+        "python programmer"
+      ]
+    },
+    {
+      "name": "Generative AI Developer",
+      "aliases": [
+        "generative ai developer",
+        "genai developer",
+        "gen ai developer",
+        "generative ai engineer",
+        "rag developer"
+      ]
+    },
+    {
+      "name": "AI Application Developer",
+      "aliases": [
+        "ai application developer",
+        "ai app developer",
+        "applied ai developer",
+        "llm application developer",
+        "llm developer"
+      ]
+    },
+    {
+      "name": "Junior Software Engineer",
+      "aliases": [
+        "junior software engineer",
+        "graduate software engineer",
+        "entry level software engineer",
+        "associate software engineer",
+        "software engineer i",
+        "sde 1"
+      ]
+    },
+    {
+      "name": "FastAPI Developer",
+      "aliases": [
+        "fastapi developer",
+        "fastapi engineer"
+      ]
+    },
+    {
+      "name": "Django Developer",
+      "aliases": [
+        "django developer",
+        "django engineer"
+      ]
+    }
+  ],
+  "skills": [
+    "python",
+    "fastapi",
+    "django",
+    "rest api",
+    "rest apis",
+    "sql",
+    "postgresql",
+    "postgres",
+    "mysql",
+    "mongodb",
+    "sqlalchemy",
+    "react",
+    "html",
+    "css",
+    "javascript",
+    "rag",
+    "llm",
+    "llm api",
+    "llm apis",
+    "gemini",
+    "chromadb",
+    "chroma",
+    "redis",
+    "docker",
+    "aws",
+    "git",
+    "github"
+  ],
+  "skill_weights": {
+    "python": 3,
+    "fastapi": 2,
+    "django": 2,
+    "rest api": 2,
+    "rest apis": 2,
+    "sql": 2,
+    "postgresql": 2,
+    "postgres": 2,
+    "mysql": 2,
+    "mongodb": 2,
+    "sqlalchemy": 2,
+    "rag": 2,
+    "llm": 2,
+    "llm api": 2
+  },
+  "locations": [
+    "india",
+    "remote",
+    "anywhere",
+    "worldwide",
+    "hyderabad",
+    "bangalore",
+    "bengaluru",
+    "chennai",
+    "mumbai",
+    "pune",
+    "delhi",
+    "gurgaon",
+    "gurugram",
+    "noida",
+    "kolkata",
+    "ahmedabad",
+    "kochi",
+    "jaipur",
+    "indore"
+  ],
+  "exclude_title_terms": [
+    "senior",
+    "staff",
+    "principal",
+    "lead",
+    "manager",
+    "director",
+    "head of",
+    "architect"
+  ],
+  "exclude_description_terms": [
+    "unpaid internship",
+    "unpaid role",
+    "volunteer position"
+  ],
+  "suspicious_url_hosts": [
+    "bit.ly",
+    "tinyurl.com",
+    "t.co",
+    "cutt.ly",
+    "shorturl.at",
+    "is.gd"
+  ],
+  "allow_unknown_experience": true,
+  "talivy": {
+    "max_queries": 10,
+    "max_results_per_query": 20,
+    "cache_ttl_hours": 24,
+    "request_delay_seconds": 1.0,
+    "search_terms": [
+      "fresher",
+      "graduate",
+      "entry-level",
+      "0-1 years"
+    ]
+  }
+}

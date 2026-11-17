@@ -1,0 +1,26 @@
+{
+  "full_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "linkedin_url": null,
+  "github_url": null,
+  "portfolio_url": null,
+  "education": {
+    "degree": "B.Sc Computer Science",
+    "institution": null,
+    "graduation_year": 2027
+  },
+  "projects": [
+    "AI Pulse",
+    "Agile Bot",
+    "AI Resume Analyzer",
+    "CortexAI",
+    "Talivy"
+  ],
+  "internship_experience": [],
+  "certifications": [],
+  "resume_path": null,
+  "resume_variants": {},
+  "cover_letter_template": null
+}
